@@ -8,7 +8,7 @@ El sitio web presentara una variedad de cafés disponibles para la venta, así c
 
 ## Instrucciones de Instalación
 
-1. Clona este repositorio en tu máquina local usando `git clone https://github.com/username/tiendadecafes.git`
+1. Clona este repositorio en tu máquina local usando `git clone https://github.com/username/website.git`
 2. Abre el archivo `index.html` en tu navegador de elección.
 
 ## Contribuir
